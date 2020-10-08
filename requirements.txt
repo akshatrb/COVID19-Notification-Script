@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.0
+bs4==0.0.1
+plyer==1.4.3
+
