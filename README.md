@@ -1,4 +1,4 @@
-# RT Covid19 Notification System
+# RT Covid19 Notification Script
 Displays live information related to COVID-19 cases in India as a real time notification.
 
 ## Datasource
